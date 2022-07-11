@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Menu_Ristar.png"><SubTexture name="M Ristar Idle0000" x="0" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="M Ristar Idle0001" x="304" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="M Ristar Idle0002" x="0" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="M Ristar Idle0003" x="304" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="M Ristar Idle0004" x="0" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="M Ristar Idle0005" x="304" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+</TextureAtlas>

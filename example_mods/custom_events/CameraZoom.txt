@@ -1,0 +1,6 @@
+Used to Make a Camera Zoom
+
+
+Value 1: How much you want it to zoom (Anything under -1 will make the camera flip)
+
+You don't need to do anything with Value 2 unless you want an instant zoom and no transition

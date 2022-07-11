@@ -1,0 +1,137 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Ugh..... What happened?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Beep bah boop..."
+		},
+		{
+			"speed": 0.065,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "uhm....."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Who are you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "I'm Ristar! Nice to meet you!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Where are we Ristar?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "In space..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "BAH BOOP BEEP?!?!?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "WHAT???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now now now, don't panic!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "Ristar",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "There's a Green Orb around all of us with oxygen inside it!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "phew..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Bep bahboop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "huh? you want me to rap battle you?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "BAH!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "Whoa! No need to get mad."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talking",
+			"text": "Well... if you want,"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Let's go!!"
+		}
+	]
+}

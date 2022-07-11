@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ScaredBF.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BF Scared0000" x="0" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0001" x="0" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0002" x="0" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0003" x="0" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0004" x="0" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0005" x="408" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0006" x="408" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0007" x="816" y="0" width="408" height="413"/>
+	<SubTexture name="BF Scared0008" x="1224" y="0" width="408" height="402" frameX="0" frameY="-11" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0009" x="1224" y="0" width="408" height="402" frameX="0" frameY="-11" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0010" x="1224" y="0" width="408" height="402" frameX="0" frameY="-11" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0011" x="1224" y="0" width="408" height="402" frameX="0" frameY="-11" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0012" x="1632" y="0" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0013" x="0" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0014" x="408" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0015" x="816" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0016" x="1224" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0017" x="816" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0018" x="1224" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0019" x="816" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0020" x="1224" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0021" x="816" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0022" x="1632" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0023" x="1632" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0024" x="1632" y="413" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0025" x="0" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0026" x="408" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0027" x="816" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0028" x="1224" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0029" x="816" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0030" x="1224" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0031" x="816" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0032" x="0" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0033" x="1632" y="820" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0034" x="0" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0035" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0036" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0037" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0038" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0039" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0040" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0041" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0042" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0043" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0044" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0045" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0046" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0047" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0048" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0049" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0050" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+	<SubTexture name="BF Scared0051" x="408" y="1227" width="408" height="407" frameX="0" frameY="-3" frameWidth="408" frameHeight="413"/>
+</TextureAtlas>

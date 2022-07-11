@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RivalsStage.png">
+	<!-- Created with Adobe Animate version 22.0.3.179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="RivalsStage0000" x="0" y="0" width="2562" height="1410" frameX="0" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0001" x="2562" y="0" width="2556" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0002" x="5118" y="0" width="2555" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0003" x="0" y="1410" width="2555" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0004" x="2555" y="1410" width="2555" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0005" x="5110" y="1410" width="2555" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0006" x="0" y="2820" width="2740" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0007" x="2740" y="2820" width="2793" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0008" x="0" y="4230" width="2928" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0009" x="2928" y="4230" width="2992" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0010" x="0" y="5640" width="3196" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+	<SubTexture name="RivalsStage0011" x="3196" y="5640" width="3198" height="1410" frameX="-7" frameY="0" frameWidth="3603" frameHeight="1410"/>
+</TextureAtlas>

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "pissed",
+			"text": "BAPBOOP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "You want another song????"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep bah bop boop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "And you want it to be the hardest one?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ye"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "We usually do 3 songs and this is the third one soooooooo......."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "well alright."
+		}
+	]
+}

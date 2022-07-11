@@ -1,0 +1,58 @@
+{
+	"storyName": "??",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "space",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "week7",
+	"startUnlocked": false,
+	"weekCharacters": [
+		"ristar",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Creeped",
+			"ristar",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"felt",
+			"ristar",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"glitched",
+			"ristar",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"rivals",
+			"ristar",
+			[
+				126,
+				0,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

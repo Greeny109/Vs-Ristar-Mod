@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="RIstarDialogue.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ristar Confused Talking0000" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0001" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0002" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0003" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0004" x="365" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0005" x="730" y="0" width="365" height="392" frameX="0" frameY="-15" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0006" x="1095" y="0" width="365" height="392" frameX="0" frameY="-20" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0007" x="1460" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0008" x="1825" y="0" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0009" x="2190" y="0" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0010" x="2555" y="0" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0011" x="2920" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0012" x="3285" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0013" x="3285" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0014" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0015" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0016" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0017" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0018" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Confused Talking0019" x="0" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0000" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0001" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0002" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0003" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0004" x="0" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0005" x="365" y="392" width="365" height="392" frameX="0" frameY="-15" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0006" x="730" y="392" width="365" height="392" frameX="0" frameY="-20" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0007" x="1095" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0008" x="1460" y="392" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0009" x="1825" y="392" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0010" x="2190" y="392" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0011" x="2555" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0012" x="2920" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0013" x="2920" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0014" x="3285" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0015" x="3285" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0016" x="3285" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0017" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0018" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Excited Talking0019" x="3650" y="0" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0000" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0001" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0002" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0003" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0004" x="0" y="784" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0005" x="365" y="784" width="365" height="392" frameX="0" frameY="-15" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0006" x="730" y="784" width="365" height="392" frameX="0" frameY="-20" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0007" x="1095" y="784" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0008" x="1460" y="784" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0009" x="1825" y="784" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0010" x="2190" y="784" width="365" height="392" frameX="0" frameY="0" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0011" x="2555" y="784" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0012" x="2920" y="784" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0013" x="2920" y="784" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0014" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0015" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0016" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0017" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0018" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+	<SubTexture name="Ristar Normal Talking0019" x="3650" y="392" width="365" height="392" frameX="0" frameY="-10" frameWidth="365" frameHeight="412"/>
+</TextureAtlas>

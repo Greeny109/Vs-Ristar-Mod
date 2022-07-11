@@ -1,0 +1,50 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		70,
+		40
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Talking",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Ristar Normal Talking0012",
+			"loop_name": "Ristar Normal Talking"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Happy",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Ristar Excited Talking0012",
+			"loop_name": "Ristar Excited Talking"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "Confused",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Ristar Confused Talking0012",
+			"loop_name": "Ristar Confused Talking"
+		}
+	],
+	"image": "Ristar_Dialogue"
+}

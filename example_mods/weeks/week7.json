@@ -1,0 +1,48 @@
+{
+	"storyName": "Shooting stars",
+	"hideFreeplay": false,
+	"weekBackground": "space",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Flora",
+			"ristar",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"Ring-Rink",
+			"Ristar",
+			[
+				255,
+				113,
+				0
+			]
+		],
+		[
+			"Kaiser",
+			"Ristar",
+			[
+				255,
+				113,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"ristar",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

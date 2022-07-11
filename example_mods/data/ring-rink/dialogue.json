@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Woo! That was good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Beep bah boop!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "That one was inspired by Planet Flora!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "It kinda looks like Earth to be honest."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Speaking of Earth, can you send us back there now?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh, sure!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BAH!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "huh??  "
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "BEEP SKDOO BAP BOOP BEE!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "You want another rap battle?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "be."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Confused",
+			"text": "uhm..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well... I guess one more couldn't hurt."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Yea, you're right."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "ristar",
+			"boxState": "normal",
+			"expression": "Happy",
+			"text": "Let's do this!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "yea!"
+		}
+	]
+}

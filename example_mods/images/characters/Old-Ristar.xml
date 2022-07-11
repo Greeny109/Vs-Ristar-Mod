@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Old-Ristar.png"><SubTexture name="Ristar Idle0000" x="0" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Idle0001" x="304" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Idle0002" x="608" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Idle0003" x="912" y="0" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Idle0004" x="0" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Idle0005" x="304" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Idle0006" x="608" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Down0000" x="912" y="304" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Down0001" x="0" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Down0002" x="304" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Down0003" x="608" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Left0000" x="912" y="608" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Left0001" x="0" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Left0002" x="304" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Left0003" x="608" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Right0000" x="912" y="912" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Right0001" x="0" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Right0002" x="304" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Right0003" x="608" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Up0000" x="912" y="1216" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Up0001" x="0" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Up0002" x="304" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+<SubTexture name="Ristar Up0003" x="608" y="1520" width="304" height="304" frameX="0" frameY="0" frameWidth="304" frameHeight="304" />
+</TextureAtlas>
